@@ -1,7 +1,0 @@
-{
-    "clientId": "1117459147525464095",
-    "clientSecret": "8BcqlgBYNQUILh6CwdRnPuOKCISLAS1j",
-    "redirectUri": "http://82.217.227.210:3000/auth/callback",
-    "tokenEndpoint": "https://discord.com/api/oauth2/token",
-    "token": "MTExNzQ1OTE0NzUyNTQ2NDA5NQ.GJaMRa.t4QD-YRFi_Q7vWyeysAeZrhvR4pH6KGEErAJQs"
-}
